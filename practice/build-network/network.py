@@ -1,5 +1,6 @@
 import tensorflow as tf
 import numpy as np
+import matplotlib.pyplot as plt
 def add_layers(inputs,in_size,out_size,activation_function=None):
     Weights =tf.Variable(tf.random_normal([in_size,out_size]))
     biases =tf.Variable(tf.zeros([1,out_size]))
@@ -10,7 +11,7 @@ def add_layers(inputs,in_size,out_size,activation_function=None):
         output = activation_function(result)
     return output
 
-x_data=np.linspace(1,2,300)[: ,np.newaxis]
+x_data=np.linspace(1,10,300)[: ,np.newaxis]
 noise=np.random.normal(0,0.05,x_data.shape)
 y_data=x_data*2+noise
 
@@ -24,13 +25,31 @@ loss=tf.reduce_mean(tf.reduce_sum(tf.square(ys-prediction),reduction_indices=[1]
 train=tf.train.GradientDescentOptimizer(0.1).minimize(loss)
 
 
-init=tf.initialize_all_variables()
+init=tf.global_variables_initializer()
+sess=tf.Session()
+sess.run(init)
+# plot the data
+fig = plt.figure()
+ax = fig.add_subplot(1,1,1)
+ax.scatter(x_data, y_data)
+plt.ylim([0,30])
+plt.ion()
+plt.show()
 
-with tf.Session()as sess:
-    sess.run(init)
-    for i in range(2000):
-        sess.run(train,feed_dict={xs:x_data,ys:y_data})
-        #print(sess.run(loss, feed_dict={xs: x_data, ys: y_data}))
-        print(sess.run(prediction, feed_dict={xs: x_data, ys: y_data}))
+for i in range(1000):
+    sess.run(train,feed_dict={xs:x_data,ys:y_data})
+    print(sess.run(loss, feed_dict={xs: x_data, ys: y_data}))
+    # print(sess.run(prediction, feed_dict={xs: x_data, ys: y_data}))
+    if i % 50 == 0:
+        # to visualize the result and improvement
+        try:
+            ax.lines.remove(lines[0])
+        except Exception:
+            pass
+        prediction_value = sess.run(prediction, feed_dict={xs: x_data})
+        # plot the prediction
+        lines = ax.plot(x_data, prediction_value, 'r-', lw=5)
+        plt.pause(1)
+
 
 

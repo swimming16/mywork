@@ -27,16 +27,17 @@ print(mat2)
 #     sess.run(init)
 #     print(sess.run(result))
 ############  tf,placeholder()
-# input1=tf.placeholder(tf.int32)
-# input2=tf.placeholder(tf.int32)
-# output=tf.matmul(input1,input2)
-# with tf.Session() as sess:
-#     print(sess.run(output,feed_dict={input1:mat1,input2:mat2}))
+input1=tf.placeholder(tf.int32)
+input2=tf.placeholder(tf.int32)
+output=tf.matmul(input1,input2)
+with tf.Session() as sess:
+    print(sess.run(output,feed_dict={input1:mat1,input2:mat2}))
 
 ############ 如何打印一个tf变量
-biases = tf.Variable(tf.zeros([1, 5]) + 0.1)
-init=tf.initialize_all_variables()
-with tf.Session() as sess:
-    sess.run(init)
-    print(sess.run(biases))
+# biases = tf.Variable(tf.zeros([1, 5]) + 0.1)
+# init=tf.initialize_all_variables()
+# with tf.Session() as sess:
+#     sess.run(init)
+#     print(sess.run(biases))
+
 
