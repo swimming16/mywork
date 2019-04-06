@@ -16,7 +16,7 @@ noise=np.random.normal(0,0.05,x_data.shape)
 y_data=x_data*2+noise
 
 xs =tf.placeholder(tf.float32, [None,1])#None暂时不清楚维度，可以为任意数
-ys=tf.placeholder(tf.float32, [None,1])
+ys =tf.placeholder(tf.float32, [None,1])
 
 l1=add_layers(xs,1,10,activation_function=tf.nn.relu)
 prediction=add_layers(l1,10,1, activation_function=None)

@@ -10,11 +10,17 @@ import tensorflow as tf
 # # print(table.idxmax())
 # # print(table.idxmax(1,))
 
+a=np.array([[1,2,3,4],5,6,7,8])
+b=a[np.newaxis,:]
+print(b)
 
-a=np.random.rand(6,4)
+# a=[1,2,3,\
+#    4,56]
+# print(a)
+#a=np.random.rand(6,4)
 #l=np.argmax(a)
-print(a)
-print(a[:,:2])
+# print(a)
+# print(a[:,:2])
 #print(l)
 # w1=tf.Variable(tf.random_normal([2,3]))
 # with tf.Session() as sess:
