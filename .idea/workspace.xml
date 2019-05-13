@@ -2,10 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a5d9505-0bab-44f4-9114-72bf7863f1c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Tiyuntsong/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-rl-tensorflow/.idea/deep-rl-tensorflow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-rl-tensorflow/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-rl-tensorflow/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep-rl-tensorflow/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deepRL_DS/poster(1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper/1811.06166.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper/2818 ACM MM/1805.02482.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper/2818 ACM MM/A Survey on Bitrate Adaptation Schemes for.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper/2818 ACM MM/FDCHAS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper/2818 ACM MM/FlexStream Towards Flexible Adaptive Video Streaming.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper/2818 ACM MM/acmmm2018vmeon.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper/2818 ACM MM/fdchas-final-abdelhak-pdf-181214132331.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper/Improving TCP Congestion Control with Machine Intelligence.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper/ieee network/AI for NetworkTraffic Control.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper/ieee network/An Improved Stacked Auto-Encoder for Network Traffic Flow Classification.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper/ieee network/Artificial Intelligence to Manage Network Traffic of 5G Wireless Networks.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper/ieee network/Deep Reinforcement Learning for Mobile Edge Caching Review, New Features,.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper/ieee network/Deep Reinforcement Learning for Multimedia Traffic Control in Software Defined.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paper/ieee network/Distributed and Efficient Object Detection in Edge Computing Challenges and Solutions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/150DQN/Cartpole.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/mnist/MNIST_data/t10k-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/mnist/MNIST_data/t10k-labels-idx1-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/mnist/MNIST_data/train-images-idx3-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/mnist/MNIST_data/train-labels-idx1-ubyte.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/mnist/mnist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/mnist/mnist_simple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/qarc-gym/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/qarc-gym/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/qarc-gym/RL_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/qarc-gym/RL_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/qarc-gym/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/qarc-gym/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/qarc-gym/dqn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/qarc-gym/dqn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/qarc-gym/export.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/qarc-gym/export.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/qarc-gym/inet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/qarc-gym/inet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/qarc-gym/qarc-innovation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/qarc-gym/qarc-innovation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/qarc-gym/qarc/gym_qarc/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/qarc-gym/qarc/gym_qarc/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/qarc-gym/qarc/gym_qarc/envs/DelayQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/qarc-gym/qarc/gym_qarc/envs/DelayQueue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/qarc-gym/qarc/gym_qarc/envs/Packet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/qarc-gym/qarc/gym_qarc/envs/Packet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/qarc-gym/qarc/gym_qarc/envs/SimTime.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/qarc-gym/qarc/gym_qarc/envs/SimTime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/qarc-gym/qarc/gym_qarc/envs/TinyQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/qarc-gym/qarc/gym_qarc/envs/TinyQueue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/qarc-gym/qarc/gym_qarc/envs/qarc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/qarc-gym/qarc/gym_qarc/envs/qarc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/qarc-gym/qarc/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/qarc-gym/qarc/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/qarc-gym/res.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/qarc-gym/res.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/qarc-gym/rudder.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/qarc-gym/rudder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/qarc-gym/show.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/qarc-gym/show.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/videodatasets/cv_img.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/videodatasets/cv_img.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/videodatasets/generate.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/videodatasets/generate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/videodatasets/generate_pic.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/videodatasets/generate_pic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/videodatasets/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/videodatasets/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/videodatasets/process-vmaf-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/videodatasets/process-vmaf-test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/videodatasets/process-vmaf.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/videodatasets/process-vmaf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/videodatasets/process.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/videodatasets/process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/videodatasets/sort_img.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/videodatasets/sort_img.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/videodatasets/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/videodatasets/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QARC/videodatasets/trans.py" beforeDir="false" afterPath="$PROJECT_DIR$/../QARC/videodatasets/trans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiyuntsong/src/elo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tiyuntsong/src/elo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tiyuntsong/src/zero.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Tiyuntsong/src/zero.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mywork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mywork.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/deepRL_DS" beforeDir="false" afterPath="$PROJECT_DIR$/deepRL_DS" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/morvan/tutorials" beforeDir="false" afterPath="$PROJECT_DIR$/morvan/tutorials" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/RL_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/RL_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/run_this.py" beforeDir="false" afterPath="$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/run_this.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videostreaming/load_trace.py" beforeDir="false" afterPath="$PROJECT_DIR$/../videostreaming/load_trace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videostreaming/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/../videostreaming/run.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,113 +82,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deepRL_DS/multi_user_network_env.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deepRL_DS/train.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="373" column="37" selection-start-line="373" selection-start-column="37" selection-end-line="373" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#47#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/maze_env.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/RL_brain.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="214" column="34" selection-start-line="214" selection-start-column="34" selection-end-line="214" selection-end-column="34" />
-              <folding>
-                <element signature="e#261#279#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/DQN_modified.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-              <folding>
-                <element signature="e#320#338#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/build-network/network.py">
+        <entry file="file://$PROJECT_DIR$/../deep-rl-tensorflow/utils.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/build-network/tensorflow basic.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-600">
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/longestCommonPrefix.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/run_this.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-450">
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -145,13 +121,19 @@
       <find>replace_target_op</find>
       <find>batch_memory</find>
       <find>memory</find>
+      <find>tqdm</find>
+      <find>train</find>
+      <find>mnist</find>
       <find>_train_op</find>
+      <find>memory_counter</find>
+      <find>a</find>
+      <find>store_transition</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/morvan/tutorials" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../deep-rl-tensorflow" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -159,8 +141,17 @@
         <option value="$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/1_command_line_reinforcement_learning/treasure_on_right.py" />
         <option value="$PROJECT_DIR$/deepRL_DS/drqn.py" />
         <option value="$PROJECT_DIR$/deepRL_DS/train.py" />
+        <option value="$PROJECT_DIR$/../QARC/README.md" />
+        <option value="$PROJECT_DIR$/../Tiyuntsong/src/videos/__init__.py" />
+        <option value="$PROJECT_DIR$/../Tiyuntsong/src/main.py" />
+        <option value="$PROJECT_DIR$/practice/mnist.py" />
+        <option value="$PROJECT_DIR$/practice/mnist/mnist" />
+        <option value="$PROJECT_DIR$/practice/mnist/mnist_simple.py" />
+        <option value="$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/run_this.py" />
         <option value="$PROJECT_DIR$/test/test.py" />
         <option value="$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/RL_brain.py" />
+        <option value="$PROJECT_DIR$/../videostreaming/run.py" />
+        <option value="$PROJECT_DIR$/practice/150DQN/Cartpole.py" />
       </list>
     </option>
   </component>
@@ -176,93 +167,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="mywork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mywork" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mywork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mywork" type="462c0819:PsiDirectoryNode" />
-              <item name="deepRL_DS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mywork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mywork" type="462c0819:PsiDirectoryNode" />
-              <item name="morvan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mywork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mywork" type="462c0819:PsiDirectoryNode" />
-              <item name="morvan" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mywork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mywork" type="462c0819:PsiDirectoryNode" />
-              <item name="morvan" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="Reinforcement-learning-with-tensorflow-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mywork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mywork" type="462c0819:PsiDirectoryNode" />
-              <item name="morvan" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="Reinforcement-learning-with-tensorflow-master" type="462c0819:PsiDirectoryNode" />
-              <item name="contents" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mywork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mywork" type="462c0819:PsiDirectoryNode" />
-              <item name="morvan" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="Reinforcement-learning-with-tensorflow-master" type="462c0819:PsiDirectoryNode" />
-              <item name="contents" type="462c0819:PsiDirectoryNode" />
-              <item name="1_command_line_reinforcement_learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mywork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mywork" type="462c0819:PsiDirectoryNode" />
-              <item name="morvan" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="Reinforcement-learning-with-tensorflow-master" type="462c0819:PsiDirectoryNode" />
-              <item name="contents" type="462c0819:PsiDirectoryNode" />
-              <item name="5_Deep_Q_Network" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mywork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mywork" type="462c0819:PsiDirectoryNode" />
-              <item name="morvan" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="Reinforcement-learning-with-tensorflow-master" type="462c0819:PsiDirectoryNode" />
-              <item name="experiments" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mywork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mywork" type="462c0819:PsiDirectoryNode" />
-              <item name="morvan" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="Reinforcement_learning_TUT" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mywork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mywork" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pensieve" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Tiyuntsong\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -276,8 +193,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run_this (1)">
-    <configuration name="longestCommonPrefix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Cartpole">
+    <configuration name="Cartpole" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mywork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,11 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/150DQN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/longestCommonPrefix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/150DQN/Cartpole.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,19 +215,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="run_this (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mywork" />
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deep-rl-tensorflow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../deep-rl-tensorflow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/run_this.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../deep-rl-tensorflow/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="videostreaming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../videostreaming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../videostreaming/run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,11 +265,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/2_Q_Learning_maze" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/2_Q_Learning_maze/run_this.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/run_this.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,34 +299,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mywork" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deepRL_DS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deepRL_DS/train.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.run_this (1)" />
+        <item itemvalue="Python.Cartpole" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.run_this" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.longestCommonPrefix" />
-        <item itemvalue="Python.train" />
       </list>
     </recent_temporary>
   </component>
@@ -417,7 +334,21 @@
       <option name="project" value="LOCAL" />
       <updated>1554538039176</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test">
+      <created>1554538940557</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554538940557</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <created>1554538956464</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554538956464</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -432,20 +363,20 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8007449" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" sideWeight="0.19925512" side_tool="true" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.86885244" visible="true" weight="0.20461309" />
+      <window_info id="Structure" order="1" sideWeight="0.13114753" side_tool="true" visible="true" weight="0.20461309" />
       <window_info id="Favorites" order="2" sideWeight="0.50340134" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49925596" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" visible="true" weight="0.119672135" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4955357" weight="0.23934427" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.23114754" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295082" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5014881" side_tool="true" visible="true" weight="0.119672135" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49702382" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50446427" side_tool="true" weight="0.3442623" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49702382" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -524,230 +455,367 @@
     <MESSAGE value="add DSA-deepRL" />
     <MESSAGE value="first comm" />
     <MESSAGE value="commit all files" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit all files" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement_learning_TUT/README.md">
+    <entry file="file://$PROJECT_DIR$/../QARC/overview.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tiyuntsong/src/elo_baseline.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tiyuntsong/src/elo.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tiyuntsong/src/elo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/mnist.py" />
+    <entry file="file://$PROJECT_DIR$/../QARC/advancedQARC/advancedQARC/innovation_env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#30#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tiyuntsong/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2" />
+          <first_editor relative-caret-position="225">
+            <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/1_command_line_reinforcement_learning/treasure_on_right.py">
+    <entry file="file://$PROJECT_DIR$/../QARC/advancedQARC/advancedQARC/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        <state relative-caret-position="125">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
           <folding>
-            <element signature="e#353#371#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/2_Q_Learning_maze/run_this.py">
+    <entry file="file://D:/python/Lib/site-packages/tensorflow/examples/tutorials/mnist/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#756#794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/mnist/MNIST_data/t10k-labels.idx1-ubyte" />
+    <entry file="file://$PROJECT_DIR$/../Tiyuntsong/src/network.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
-            <element signature="e#411#436#0" expanded="true" />
+            <element signature="e#0#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/2_Q_Learning_maze/RL_brain.py">
+    <entry file="file://$PROJECT_DIR$/../Tiyuntsong/src/log.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="150">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/2_Q_Learning_maze/maze_env.py">
+    <entry file="file://D:/python/Lib/ntpath.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="10" column="70" lean-forward="true" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+        <state relative-caret-position="-706">
+          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deepRL_DS/How to generate states.ipynb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/python/Lib/site-packages/numpy/lib/function_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-842">
-          <caret line="4641" column="4" selection-start-line="4641" selection-start-column="4" selection-end-line="4641" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="191" column="8" selection-start-line="191" selection-start-column="8" selection-end-line="191" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/numpy/core/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-206">
-          <caret line="499" column="11" lean-forward="true" selection-start-line="499" selection-start-column="11" selection-end-line="499" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deepRL_DS/state_input_dqn.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://D:/python/Lib/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="940" column="4" selection-start-line="940" selection-start-column="4" selection-end-line="940" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/python/Lib/site-packages/numpy/core/fromnumeric.py">
+    <entry file="file://D:/python/Lib/gzip.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-631">
-          <caret line="1041" column="4" selection-start-line="1041" selection-start-column="4" selection-end-line="1041" selection-end-column="4" />
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deepRL_DS/multi_user_network_env.py">
+    <entry file="file://$PROJECT_DIR$/../vmaf/python/src/vmaf/core/nn_train_test_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="194">
+          <caret line="103" column="8" selection-start-line="103" selection-start-column="8" selection-end-line="103" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QARC/qarc-gym/inet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deepRL_DS/drqn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="78" column="21" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/../QARC/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="350">
+            <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-287100998/builtins.py">
+    <entry file="file://D:/python/Lib/site-packages/tflearn/datasets/mnist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="5750" column="6" selection-start-line="5750" selection-start-column="6" selection-end-line="5750" selection-end-column="6" />
+        <state relative-caret-position="455">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/python/Lib/site-packages/tensorflow/python/ops/state_ops.py">
+    <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5.1_Double_DQN/RL_brain.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/experiments/2D_car/car_env.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-381">
-          <caret line="194" column="4" selection-start-line="194" selection-start-column="4" selection-end-line="194" selection-end-column="4" />
+        <state relative-caret-position="153">
+          <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/python/Lib/site-packages/tensorflow/python/ops/init_ops.py">
+    <entry file="file://D:/python/Tools/scripts/reindent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="292" column="6" selection-start-line="292" selection-start-column="6" selection-end-line="292" selection-end-column="6" />
+        <state relative-caret-position="164">
+          <caret line="214" column="21" selection-start-line="214" selection-start-column="21" selection-end-line="214" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/build-network/tensorflow basic.py">
+    <entry file="file://D:/python/Lib/site-packages/dateutil/rrule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600">
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="164">
+          <caret line="210" column="8" selection-start-line="210" selection-start-column="8" selection-end-line="210" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/maze_env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2881" />
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-362">
+          <caret line="734" column="8" selection-start-line="734" selection-start-column="8" selection-end-line="734" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QARC/qarc-gym/RL_brain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="125" column="8" selection-start-line="125" selection-start-column="8" selection-end-line="125" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://D:/python/Lib/site-packages/numpy/core/shape_base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-727">
-          <caret line="286" column="4" selection-start-line="286" selection-start-column="4" selection-end-line="286" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deepRL_DS/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="373" column="37" selection-start-line="373" selection-start-column="37" selection-end-line="373" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/maze_env.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/longestCommonPrefix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="237">
+          <caret line="327" column="24" lean-forward="true" selection-start-line="325" selection-start-column="8" selection-end-line="327" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-287100998/numpy/random/mtrand.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1060">
-          <caret line="2023" column="4" selection-start-line="2023" selection-start-column="4" selection-end-line="2023" selection-end-column="4" />
+        <state relative-caret-position="-930">
+          <caret line="228" column="4" selection-start-line="228" selection-start-column="4" selection-end-line="228" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-287100998/numpy/core/_multiarray_umath.py">
+    <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5.3_Dueling_DQN/run_Pendulum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1076">
-          <caret line="195" column="4" selection-start-line="195" selection-start-column="4" selection-end-line="195" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/build-network/network.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-1487">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#154#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5.3_Dueling_DQN/RL_brain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2975">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#186#204#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="112">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/RL_brain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-503">
+          <caret line="191" column="33" selection-start-line="191" selection-start-column="33" selection-end-line="191" selection-end-column="33" />
+          <folding>
+            <element signature="e#261#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tiyuntsong/src/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2312">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/mnist/mnist_simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/run_this.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450">
+        <state relative-caret-position="110">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="31" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/DQN_modified.py">
+    <entry file="file://$PROJECT_DIR$/../deep-rl-tensorflow/agents/deep_q.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        <state relative-caret-position="-2100">
           <folding>
-            <element signature="e#320#338#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/morvan/tutorials/Reinforcement-learning-with-tensorflow-master/contents/5_Deep_Q_Network/RL_brain.py">
+    <entry file="file://$PROJECT_DIR$/practice/mnist/mnist">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="214" column="34" selection-start-line="214" selection-start-column="34" selection-end-line="214" selection-end-column="34" />
+        <state relative-caret-position="2425">
+          <caret line="100" column="15" selection-start-line="100" selection-end-line="100" selection-end-column="15" />
           <folding>
-            <element signature="e#261#279#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../deep-rl-tensorflow/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QARC/videodatasets/testmov.flv_len.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QARC/videodatasets/testmov.flv_vmaf.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QARC/QARC/VQRL/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="435" column="23" selection-start-line="435" selection-start-column="22" selection-end-line="435" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/150DQN/Cartpole.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QARC/evaluation/vqrl/0.flv.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QARC/evaluation/vqrl/0_1.flv.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../deep-rl-tensorflow/assets/corridor_result.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../videostreaming/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5325">
+          <caret line="217" selection-start-line="217" selection-end-line="217" />
+          <folding>
+            <element signature="e#131#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QARC/videodatasets/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/gym/envs/atari/atari_env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../QARC/videodatasets/generate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../deep-rl-tensorflow/assets/A1_A4_double_dueling.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../deep-rl-tensorflow/agents/agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../deep-rl-tensorflow/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>

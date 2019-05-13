@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../QARC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Tiyuntsong" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../deep-rl-tensorflow" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/deepRL_DS" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/morvan/tutorials" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../videostreaming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../vmaf" vcs="Git" />
   </component>
 </project>
