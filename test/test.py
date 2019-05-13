@@ -2,6 +2,9 @@ import pandas as pd
 import numpy as np
 import tensorflow as tf
 
+a = np.array([[1],[2],[3]])
+b = np.array([[2],[3],[4]])
+print(np.hstack((a,b)))
 # table =pd.DataFrame(
 # #     np.random.rand(6, 4), columns=['a', 'b', 'c', 'd']
 # # )

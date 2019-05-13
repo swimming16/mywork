@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../QARC/.idea/QARC.iml" filepath="$PROJECT_DIR$/../QARC/.idea/QARC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tiyuntsong/.idea/Tiyuntsong.iml" filepath="$PROJECT_DIR$/../Tiyuntsong/.idea/Tiyuntsong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../deep-rl-tensorflow/.idea/deep-rl-tensorflow.iml" filepath="$PROJECT_DIR$/../deep-rl-tensorflow/.idea/deep-rl-tensorflow.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mywork.iml" filepath="$PROJECT_DIR$/.idea/mywork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../videostreaming/.idea/videostreaming.iml" filepath="$PROJECT_DIR$/../videostreaming/.idea/videostreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vmaf/.idea/vmaf.iml" filepath="$PROJECT_DIR$/../vmaf/.idea/vmaf.iml" />
     </modules>
   </component>
 </project>
