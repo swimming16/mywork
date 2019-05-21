@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1558443532 source:/home/xie/test/main.cpp
+	<iostream>
+	"FuncPtr.h"
+
+1558443707 /home/xie/test/FuncPtr.h
+
