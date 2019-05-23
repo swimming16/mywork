@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1558516412 source:/home/xie/mywork/C++/practice/test/main.cpp
+	<iostream>
+	"part1.h"
+
+1558516074 /home/xie/mywork/C++/practice/test/part1.h
+
