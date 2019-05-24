@@ -2,7 +2,7 @@
 #define LANDOWNERV2_H
 
 #include <algorithm>
-#include <string>
+#include <cstring>
 #include<iostream>
 #include<vector>
 #include<cstdlib>
@@ -27,12 +27,17 @@ class landownerV2
         void showCard();
         bool isContain(int);//判断摸得牌是否在剩余牌中
         void DeleteCard(int);//从剩余的牌中删除摸到的手牌
+        void initScore();
+        void addScore(double);//在数组score中加入新的元素！！！动态的一个一个的向数组中加入元素
+        landownerV2& betterStu(landownerV2&);
 
     private:
         vector<int>postCard;//扑克牌总数
         vector<int>remainCard;//莫完后剩余的牌
         vector<int>playerCard;//玩家手中的牌
-        int score;
+        int score;//分数
+        int scoreCount;//score数组元素数组个数
+        double* Score;//使用指针指向一个score数组
         string name;
         int card[20];
 };

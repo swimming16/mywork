@@ -1,15 +1,18 @@
 # depslib dependency file v1.0
-1558615989 source:/home/xie/mywork/C++/practice/LandOwnerV2/main.cpp
+1558704377 source:/home/xie/mywork/C++/practice/LandOwnerV2/main.cpp
 	<iostream>
 	"landownerV2.h"
 
-1558617700 source:/home/xie/mywork/C++/practice/LandOwnerV2/landownerV2.cpp
+1558685647 source:/home/xie/mywork/C++/practice/LandOwnerV2/landownerV2.cpp
 	"landownerV2.h"
 
-1558617611 /home/xie/mywork/C++/practice/LandOwnerV2/landownerV2.h
-	<string>
+1558704358 /home/xie/mywork/C++/practice/LandOwnerV2/landownerV2.h
+	<algorithm>
+	<cstring>
 	<iostream>
 	<vector>
+	<cstdlib>
+	<ctime>
 
 1558683717 source:f:\新建文件夹\mywork\c++\practice\landownerv2\main.cpp
 	<iostream>
