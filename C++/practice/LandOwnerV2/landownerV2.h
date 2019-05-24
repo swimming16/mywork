@@ -1,6 +1,7 @@
 #ifndef LANDOWNERV2_H
 #define LANDOWNERV2_H
 
+#include <algorithm>
 #include <string>
 #include<iostream>
 #include<vector>

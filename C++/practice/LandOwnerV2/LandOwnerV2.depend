@@ -11,17 +11,18 @@
 	<iostream>
 	<vector>
 
-1558672093 source:f:\新建文件夹\mywork\c++\practice\landownerv2\main.cpp
+1558683717 source:f:\新建文件夹\mywork\c++\practice\landownerv2\main.cpp
 	<iostream>
 	"landownerV2.h"
 
-1558672068 f:\新建文件夹\mywork\c++\practice\landownerv2\landownerv2.h
+1558683713 f:\新建文件夹\mywork\c++\practice\landownerv2\landownerv2.h
+	<algorithm>
 	<string>
 	<iostream>
 	<vector>
 	<cstdlib>
 	<ctime>
 
-1558672078 source:f:\新建文件夹\mywork\c++\practice\landownerv2\landownerv2.cpp
+1558683756 source:f:\新建文件夹\mywork\c++\practice\landownerv2\landownerv2.cpp
 	"landownerV2.h"
 

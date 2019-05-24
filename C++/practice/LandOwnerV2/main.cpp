@@ -18,5 +18,7 @@ int main()
     landownerV2* l3=new landownerV2();
     l3->touchCard();
     l3->showCard();
+    delete l3;
+
     return 0;
 }

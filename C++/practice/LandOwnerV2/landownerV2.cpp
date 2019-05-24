@@ -31,7 +31,9 @@ void landownerV2::initCard()
 void landownerV2::showCard()
 {
     for(auto i:remainCard)
+    {
         cout<<i<<endl;
+    }
 }
 void landownerV2::touchCard()
 {
@@ -47,27 +49,33 @@ void landownerV2::touchCard()
 }
 void landownerV2::DeleteCard(int countCard)
 {
-    vector<int>::iterator iter =remainCard.begin();
-    while(iter!=remainCard.end())
+//    vector<int>::iterator iter =remainCard.begin();
+//    while(iter!=remainCard.end())
+//    {
+//        if(*iter==countCard)
+//            iter=remainCard.erase(iter);
+//        iter++;
+//    }
+
+//  find函数包含头文件#include <algorithm>，比上面的写法简单
+    auto iter =find(remainCard.begin(),remainCard.end(),countCard);
+    if(iter!=remainCard.end())
     {
-        if(*iter==countCard)
-            iter=remainCard.erase(iter);
-        iter++;
+        iter=remainCard.erase(iter);//注意erase的是迭代器
     }
 }
 bool landownerV2::isContain(int m_countCard)
 {
-//    vector<int>::iterator iter =find(remainCard.begin(),remainCard.end(),m_countCard)
+//    vector<int>::iterator iter =find(remainCard.begin(),remainCard.end(),m_countCard);
 //    if(iter==remainCard.end())
+//    {
 //        return false;
+//    }
 //    else
+//    {
 //        return true;
-      for (int i=0;i<remainCard.size() ;i++ )
-      {
-          if(m_countCard==remainCard[i])
-            return true;
-      }
-      return false;
+//
+//    }
 }
 landownerV2::~landownerV2()
 {
