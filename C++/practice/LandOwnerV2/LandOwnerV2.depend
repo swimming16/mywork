@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1558615989 source:/home/xie/mywork/C++/practice/LandOwnerV2/main.cpp
+	<iostream>
+	"landownerV2.h"
+
+1558617700 source:/home/xie/mywork/C++/practice/LandOwnerV2/landownerV2.cpp
+	"landownerV2.h"
+
+1558617611 /home/xie/mywork/C++/practice/LandOwnerV2/landownerV2.h
+	<string>
+	<iostream>
+	<vector>
+
