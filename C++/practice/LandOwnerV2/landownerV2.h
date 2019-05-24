@@ -4,6 +4,8 @@
 #include <string>
 #include<iostream>
 #include<vector>
+#include<cstdlib>
+#include<ctime>
 using namespace std;
 
 class landownerV2
@@ -19,9 +21,11 @@ class landownerV2
         string Getname() { return name; }
         void Setname(string val) { name = val; }
 
-        void touchCard(int );//摸牌的函数
+        void touchCard();//摸牌的函数
         void initCard();
         void showCard();
+        bool isContain(int);//判断摸得牌是否在剩余牌中
+        void DeleteCard(int);//从剩余的牌中删除摸到的手牌
 
     private:
         vector<int>postCard;//扑克牌总数

@@ -11,3 +11,17 @@
 	<iostream>
 	<vector>
 
+1558672093 source:f:\新建文件夹\mywork\c++\practice\landownerv2\main.cpp
+	<iostream>
+	"landownerV2.h"
+
+1558672068 f:\新建文件夹\mywork\c++\practice\landownerv2\landownerv2.h
+	<string>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1558672078 source:f:\新建文件夹\mywork\c++\practice\landownerv2\landownerv2.cpp
+	"landownerV2.h"
+
