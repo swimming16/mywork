@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1558753413 source:/home/xie/mywork/C++/practice/LandOwnerV2/integer/main.cpp
+	<iostream>
+	"integer.h"
+
+1558753432 source:/home/xie/mywork/C++/practice/LandOwnerV2/integer/integer.cpp
+	"integer.h"
+
+1558753394 /home/xie/mywork/C++/practice/LandOwnerV2/integer/integer.h
+	<iostream>
+
