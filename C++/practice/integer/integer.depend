@@ -9,3 +9,13 @@
 1558753394 /home/xie/mywork/C++/practice/LandOwnerV2/integer/integer.h
 	<iostream>
 
+1558769102 source:f:\新建文件夹\mywork\c++\practice\integer\main.cpp
+	<iostream>
+	"integer.h"
+
+1558769417 f:\新建文件夹\mywork\c++\practice\integer\integer.h
+	<iostream>
+
+1558769259 source:f:\新建文件夹\mywork\c++\practice\integer\integer.cpp
+	"integer.h"
+
