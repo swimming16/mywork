@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+    //重载运算符
     integer i1(5),i2(2),i3(0);
     i3=i2+i1;//内部调用形式是i2.operator+(i1)
     cout<<i3.Getnum()<<endl;
