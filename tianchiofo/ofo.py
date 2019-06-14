@@ -133,29 +133,29 @@ def label(row):
 dfoff['label'] = dfoff.apply(label, axis = 1)
 print(dfoff)
 print(dfoff['label'].value_counts())
-# print("end")
-#
-# # data split
-# print("-----data split------")
-# df = dfoff[dfoff['label'] != -1].copy()
-# train = df[(df['Date_received'] < 20160516)].copy()
-# valid = df[(df['Date_received'] >= 20160516) & (df['Date_received'] <= 20160615)].copy()
-# print("end")
-#
-# # feature
-# original_feature = ['discount_rate','discount_type','discount_man', 'discount_jian','distance', 'weekday', 'weekday_type'] + weekdaycols
-# print("----train-----")
-# model = SGDClassifier(#lambda:
-#     loss='log',
-#     penalty='elasticnet',
-#     fit_intercept=True,
-#     max_iter=100,
-#     shuffle=True,
-#     alpha = 0.01,
-#     l1_ratio = 0.01,
-#     n_jobs=1,
-#     class_weight=None
-# )
+print("end")
+
+# data split
+print("-----data split------")
+df = dfoff[dfoff['label'] != -1].copy()
+train = df[(df['Date_received'] < 20160530)].copy()
+valid = df[(df['Date_received'] >= 20160530) & (df['Date_received'] <= 20160630)].copy()
+print("end")
+
+# feature
+original_feature = ['discount_rate','discount_type','discount_man', 'discount_jian','distance', 'weekday', 'weekday_type'] + weekdaycols
+print("----train-----")
+model = SGDClassifier(#lambda:
+    loss='log',
+    penalty='elasticnet',
+    fit_intercept=True,
+    max_iter=100,
+    shuffle=True,
+    alpha = 0.01,
+    l1_ratio = 0.01,
+    n_jobs=1,
+    class_weight=None
+)
 # model.fit(train[original_feature], train['label'])
 #
 # # #### 预测以及结果评价

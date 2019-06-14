@@ -8,6 +8,8 @@ from sklearn.linear_model import SGDClassifier, LogisticRegression
 dfoff = pd.read_csv('ccf_offline_stage1_train.csv')
 pd.set_option('display.max_columns', None)
 
+df=dfoff
+print(df)
 #print(dfoff)
 # print(dfoff.columns)
 print(dfoff[dfoff['Date'].notnull()].groupby(['Date']).count())
