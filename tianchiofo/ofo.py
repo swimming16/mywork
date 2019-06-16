@@ -4,6 +4,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import date
 from sklearn.linear_model import SGDClassifier
+from sklearn.metrics import auc, roc_curve
+
 pd.set_option('display.max_columns', None)
 
 
@@ -131,8 +133,8 @@ def label(row):
             return 1
     return 0
 dfoff['label'] = dfoff.apply(label, axis = 1)
-print(dfoff)
-print(dfoff['label'].value_counts())
+#print(dfoff)
+#print(dfoff['label'].value_counts())
 print("end")
 
 # data split
@@ -145,7 +147,7 @@ print("end")
 # feature
 original_feature = ['discount_rate','discount_type','discount_man', 'discount_jian','distance', 'weekday', 'weekday_type'] + weekdaycols
 print("----train-----")
-model = SGDClassifier(#lambda:
+model = SGDClassifier(
     loss='log',
     penalty='elasticnet',
     fit_intercept=True,
@@ -156,22 +158,40 @@ model = SGDClassifier(#lambda:
     n_jobs=1,
     class_weight=None
 )
-# model.fit(train[original_feature], train['label'])
-#
-# # #### 预测以及结果评价
-# print(model.score(valid[original_feature], valid['label']))
-#
-# ##保存模型
-# print("---save model---")
-# with open('1_model.pkl', 'wb') as f:
-#     pickle.dump(model, f)
-# with open('1_model.pkl', 'rb') as f:
-#     model = pickle.load(f)
-#
-# # test prediction for submission
-# y_test_pred = model.predict_proba(dftest[original_feature])
-# print(y_test_pred)
-# dftest1 = dftest[['User_id','Coupon_id','Date_received']].copy()
-# dftest1['label'] = y_test_pred[:,1]
-# dftest1.to_csv('submit1.csv', index=False, header=False)
-# print(dftest1.head())
+model.fit(train[original_feature], train['label'])
+
+# #### 预测以及结果评价
+print("验证集的验证结果")
+#print(model.score(valid[original_feature], valid['label']))
+
+##保存模型
+print("---save model---")
+with open('1_model.pkl', 'wb') as f:
+    pickle.dump(model, f)
+with open('1_model.pkl', 'rb') as f:
+    model = pickle.load(f)
+
+
+# test prediction for submission
+y_test_pred = model.predict_proba(dftest[original_feature])
+print(y_test_pred)
+dftest1 = dftest[['User_id','Coupon_id','Date_received']].copy()
+dftest1['Probability'] = y_test_pred[:,1]
+#dftest1.to_csv('submit1.csv', index=False, header=False)
+print(dftest1[['User_id','Probability']])
+
+df2=dftest.copy()
+df2['label'] = df2 .apply(label, axis = 1)
+df2['Probability']=y_test_pred[:,1]
+print(df2.head(5))
+
+# avgAUC calculation
+vg = df2.groupby(['Coupon_id'])
+aucs = []
+for i in vg:
+   tmpdf = i[1]
+   if len(tmpdf['label'].unique()) != 2:
+       continue
+   fpr, tpr, thresholds = roc_curve(tmpdf['label'], tmpdf['Probability'], pos_label=1)
+   aucs.append(auc(fpr, tpr))
+print(np.average(aucs))
